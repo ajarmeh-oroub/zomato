@@ -48,7 +48,7 @@ p {
     
 }
 .main-mine{
-background-image: url('/images/bg.webp'); 
+background-image: url('images/bg.webp'); 
 background-size: cover; 
 /* width: 100%; */
 background-position: center; 
